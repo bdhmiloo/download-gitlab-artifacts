@@ -1,0 +1,4 @@
+download-gitlab-artifacts/**
+artifacts
+venv
+config.json

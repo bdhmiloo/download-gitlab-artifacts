@@ -1,0 +1,14 @@
+[
+  {
+    "pipeline_id": "10802787",
+    "project_id": "18726",
+    "pdf_prefix": "micro-svc-1-",
+    "job_names": [
+      "semgrep-sast",
+      "gemnasium-maven-dependency_scanning",
+      "download-sonar-scan-report",
+      "secret_detection",
+      "docker-image-scan"
+    ]
+  }
+]
